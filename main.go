@@ -5,7 +5,7 @@ import "fmt"
 func main()  {
 	var nombre string
 	var edad int
-	fmt.Println("calando Git")
+	//fmt.Println("calando Git")
 	fmt.Printf("cual es tu nombre: ")
 	fmt.Scanf("%s\n",&nombre)
 	fmt.Printf("cual es tu edad: ")
